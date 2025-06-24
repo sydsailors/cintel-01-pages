@@ -10,7 +10,7 @@ Here's a clickable link: [My favorite AI assistant](https://chat.openai.com/)
 
 Here's a picture of some flowers!
 
-![My Shiny Image]([https://images.prestigeonline.com/wp-content/uploads/sites/8/2022/06/01180207/lsa-hero-2-1600x900.jpeg])
+![My Shiny Image](https://images.prestigeonline.com/wp-content/uploads/sites/8/2022/06/01180207/lsa-hero-2-1600x900.jpeg)
 
 ## Reminders
 
